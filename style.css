@@ -15,7 +15,7 @@
 
 
 #top-section {
-    background-image: url(../img/girl.webp) no-repeat;
+    background-image: url() no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -59,7 +59,7 @@ ul{
 }
 
 #sales-section {
-    background: url(../img/cot.jpg) no-repeat;
+    background: url(https://i.postimg.cc/ZYsNhvJg/cot.jpg) no-repeat;
     background-position: center;
    
 }
@@ -138,6 +138,6 @@ input[type="email"], textarea, input[type="text"] {
 }
 
 #about-section {
-    background: linear-gradient(45deg, #000000c9, #000000c7), url(../img/fashion\ image.jpg);
+    background: linear-gradient(45deg, #000000c9, #000000c7), url(https://i.postimg.cc/wvZsLn4z/fashion-image.jpg);
 }
 
