@@ -24,7 +24,7 @@
     height: 40px;
     min-width: 102px;
     cursor: pointer;
-    border: solid 1px #ebebeb;
+    border: 2px solid #fff;
     background: #fff;
 }
 
@@ -75,13 +75,8 @@ ul{
     background: #D3D3D3;
 }
 
-input[type="text"], input[type="email"], input[type="number"], select, textarea, input[type="submit"] {
+input[type="text"], input[type="email"], textarea {
     width: 70%;
-    margin-top: 10px;
-}
-
-input[type="email"], textarea, input[type="text"] {
-    padding: 10px;
 }
 
 .boxed-btn {
