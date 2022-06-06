@@ -54,11 +54,17 @@ ul{
     visibility: visible;
     opacity: 30;
     transition: all .3s ease;
+    border-radius: 6px;
+}
+
+.add-to-cart-button:hover {
+    background-color: brown;
 }
 
 .add-to-cart-button a {
     color: #fff;
     width: 100%;
+    text-decoration: none;
 }
 
 #news-letter-section {
